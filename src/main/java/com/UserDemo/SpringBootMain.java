@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootMain {
 
 	public static void main(String[] args) {
-		System.out.println("Main");
+		System.out.println("Main test Feature Branch");
 		SpringApplication.run(SpringBootMain.class, args);
 	}
 
